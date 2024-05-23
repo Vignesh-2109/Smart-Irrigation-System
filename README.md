@@ -1,25 +1,17 @@
-WHAT IS SMART IRRIGATION?
-Smart irrigation technology
-uses soil moisture data to
-determine the irrigation need
-of the landscape.
-HOW IoT AND ML IS USED FOR SMART IRRIGATION?
-Sensors and a microcontroller can be used to supply the needed amount of water at the
-right moment.
-The microcontroller can receive input from the sensor data.
-The irrigation operation can be managed and controlled by microcontroller.
-By considering the amount of soil moisture of land it can be implemented in an
-automated watering system.
-With various tools and a prediction model, machine learning can be used to schedule
-irrigation.
-USE OF MACHINE LEARNING ALGORITHMS
-Machine Learning(ML) is a subset of Artificial Intelligence(AI) that are classified into supervised
-learning, unsupervised learning.
-KNN, Random Forest, Logistic Regression and Decision Tree belong to the supervised category,
-which makes prediction based on labeled data set.
-Here we Use Machine Learning Algorithms to analyse the sensor data and predict whether the
-plant needs to be watered or not.
-Many Algorithms like Decision Tree,Random Forest,KNN were used for the analysis of the data but
-the results were better when we used Logistic Regression to predict.
-As we get the data from the sensors to the cloud,the data is analysed by the Algorithm.
-We have Used Logistic Regression for the analysis of data.
+Smart Irrigation System
+What is Smart Irrigation?
+Smart irrigation technology uses soil moisture data to determine the irrigation needs of the landscape. By leveraging advanced sensors and microcontrollers, smart irrigation systems ensure that the right amount of water is supplied at the right moment.
+
+How IoT and ML are Used for Smart Irrigation?
+Sensors and Microcontrollers: Sensors collect soil moisture data, which is sent to a microcontroller. The microcontroller manages and controls the irrigation process based on the received sensor data.
+Automated Watering System: By considering the soil moisture levels, the system can automate the watering process, ensuring optimal irrigation.
+Machine Learning for Scheduling: Using various tools and prediction models, machine learning (ML) can be employed to schedule irrigation effectively.
+Use of Machine Learning Algorithms
+Machine Learning (ML), a subset of Artificial Intelligence (AI), can be categorized into supervised and unsupervised learning.
+
+Supervised Learning: Includes algorithms like K-Nearest Neighbors (KNN), Random Forest, Logistic Regression, and Decision Tree. These algorithms make predictions based on labeled datasets.
+Application in Smart Irrigation: ML algorithms analyze sensor data to predict whether plants need watering.
+Analysis and Prediction
+Multiple algorithms, including Decision Tree, Random Forest, and KNN, were tested for data analysis. However, Logistic Regression provided the best results for prediction.
+Sensor data is transmitted to the cloud, where it is analyzed by the chosen algorithm.
+Logistic Regression: Used for analyzing the data, offering better accuracy in predicting the irrigation needs.
